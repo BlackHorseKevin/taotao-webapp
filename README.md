@@ -1,2 +1,3 @@
 # taotao-webapp
-The taotao online store web project
+淘淘商城项目，用于练习电商项目中所需要的技术点，此项目为淘淘商城项目的一部分，
+在培训班用于教学使用。
